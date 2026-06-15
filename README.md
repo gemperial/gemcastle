@@ -1,7 +1,7 @@
 
-# The Bouncy Castle Crypto Package for Kotlin
+# The GemCastle Crypto Package for Kotlin
 
-The Bouncy Castle Crypto package for Kotlin is a set of Kotlin classes designed to go on top of the Bouncy Castle Crypto Java APIs. The classes can be run with either the general BC APIs or the BC-FJA FIPS version.
+A fork of the Bouncy Castle Crypto package for Kotlin is a set of Kotlin classes designed to go on top of the Bouncy Castle Crypto Java APIs. The classes can be run with either the general BC APIs or the BC-FJA FIPS version.
 
 Except where otherwise stated, this software is distributed under a license based on the MIT X Consortium license. To view the license, [see here](https://www.bouncycastle.org/licence.html). The BC Java OpenPGP library also includes a modified BZIP2 library which is licensed under the [Apache Software License, Version 2.0](http://www.apache.org/licenses/).
 
